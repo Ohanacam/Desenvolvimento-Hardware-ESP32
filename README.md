@@ -112,9 +112,5 @@ No vídeo, é possível ver:
 
 ## 👨‍💻 Autor
 
-**Obana Camargo**  
+**Ohana Camargo**  
 Disciplina: Desenvolvimento de Aplicações Computacionais
-
----
-
-Se você quiser, também posbo ajudar a criar um repositório modelo com essa descrição e uma estrutura de pastas organizada. 😊
