@@ -80,7 +80,7 @@ Este projeto tem como objetivo a integração do microcontrolador **ESP32-C6** c
 
 Confira o vídeo de demonstração do projeto em funcionamento:
 
-👉 [Assistir no YouTube]([https://youtube.com/shorts/Ra8GyTvHJ6g?si=5Eppq5CFYIJX8614](https://youtube.com/shorts/Ra8GyTvHJ6g?feature=share))
+👉 [Assistir no YouTube](https://youtube.com/shorts/Ra8GyTvHJ6g?feature=share)
 
 No vídeo, é possível ver:
 - Inicialização do display
